@@ -7,4 +7,4 @@ venue: "EEE, NTU"
 date: 2017-01-01
 location: "Singapore"
 ---
-I served as a Teaching Assistant for Course: Linear Time Invariant Systems, Convolution and Impulse Response.
+I served as a Teaching Assistant for "L2010A Linear Time Invariant Systems, Convolution and Impulse Response".
