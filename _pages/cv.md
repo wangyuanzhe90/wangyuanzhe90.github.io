@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2024-present: Professor
-* Shandong University, China
+  * Shandong University, China
 
 * 2023-2024: Research Assistant Professor
   * Nanyang Technological University, Singapore
