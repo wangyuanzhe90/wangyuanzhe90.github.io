@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-I join Shandong University, China, as a full Professor of Robotics and AI.
+I joined Shandong University, China, as a full Professor of Robotics and AI.
