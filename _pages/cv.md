@@ -27,24 +27,6 @@ Work experience
 * 2018-2019: Research Associate
   * Nanyang Technological University, Singapore
   * Supervisor: Prof. Danwei Wang (Life Fellow of IEEE, Fellow of Academy of Engineering, Singapore)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
