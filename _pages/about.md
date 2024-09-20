@@ -17,6 +17,6 @@ I am an Associate Editor for several prestigious journals in robotics and automa
 
 I collaborate with renowned universities and research institutes worldwide, including those in the U.S., U.K., Europe, Australia, Singapore, and Hong Kong.
 
-I am looking for Ph.D. students, Master students, Postdoctoral research fellows, Research Engineers with diverse backgrounds, including Mechanical Engineering, Automation, Computer Science, Mathematics, Electrical Engineering, Electronic Engineering, Control Engineering, etc. I will support researchers and students in visiting and collaborating with overseas universities.
+I am looking for Ph.D. Students, Master Students, Postdoctoral Research Fellows, Research Engineers with diverse backgrounds, including Mechanical Engineering, Automation, Computer Science, Mathematics, Electrical Engineering, Electronic Engineering, Control Engineering, etc. I will support researchers and students in visiting and collaborating with overseas universities.
 
 
