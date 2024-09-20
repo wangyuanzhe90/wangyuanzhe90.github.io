@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Professor of Robotics and AI at the School of Control Science and Engineering, Shandong University, Jinan, China. I received the B.Eng. degree from Southeast University, Nanjing, China, in 2010, the M.Eng. degree from Beihang University, Beijing, China, in 2013, and the Ph.D. degree from Nanyang Technological University (NTU), Singapore, in 2019, under the supervision of Prof. Danwei Wang (Life Fellow of IEEE, Fellow of the Academy of Engineering, Singapore).
+I am currently a Professor of Robotics and AI at the School of Control Science and Engineering, Shandong University, Jinan, China. I received the B.Eng. degree from Southeast University, Nanjing, China, in 2010, the M.Eng. degree from Beihang University, Beijing, China, in 2013, and the Ph.D. degree from Nanyang Technological University (NTU), Singapore, in 2019, under the supervision of Prof. Danwei Wang (Life Fellow of IEEE, Fellow of Academy of Engineering, Singapore).
 
 From 2018 to 2024, I successively held the positions of Research Associate, Research Fellow, and Research Assistant Professor in the School of Electrical and Electronic Engineering at NTU. In 2024, I joined Shandong University as a full Professor.
 
