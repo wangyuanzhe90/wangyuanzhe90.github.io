@@ -28,7 +28,7 @@ Work experience
   * Nanyang Technological University, Singapore
   * Supervisor: Prof. Danwei Wang (Life Fellow of IEEE, Fellow of Academy of Engineering, Singapore)
   
-Service and leadership
+Services 
 ======
 * Associate Editor, Journal of Field Robotics, 2024-present
 * Associate Editor, IEEE Transactions on Intelligent Vehicles, 2023-present
