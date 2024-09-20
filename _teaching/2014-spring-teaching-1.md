@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 1 at NTU"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2017-spring-teaching-1
+venue: "EEE, NTU"
+date: 2017-01-01
+location: "Singapore"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I served as a Teaching Assistant for Course: Linear Time Invariant Systems, Convolution and Impulse Response.
