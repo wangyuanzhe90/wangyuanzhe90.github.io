@@ -15,6 +15,8 @@ My research interests include mobile robotics, multi-robot systems, telerobotics
 
 I am an Associate Editor for several prestigious journals in robotics and automation, including the Journal of Field Robotics, IEEE Transactions on Intelligent Vehicles, and IEEE Control Systems Letters. From 2020 to 2024, I served as an Associate Editor for IROS, a flagship robotics conference.
 
-I am looking for Ph.D. students, Master students, Postdoctoral research fellows, Research Engineers with diverse backgrounds, including Mechanical Engineering, Automation, Computer Science, Mathematics, Electrical Engineering, Electronic Engineering, Control Engineering, etc.
+I collaborate with renowned universities and research institutes worldwide, including those in the U.S., U.K., Europe, Australia, Singapore, and Hong Kong.
+
+I am looking for Ph.D. students, Master students, Postdoctoral research fellows, Research Engineers with diverse backgrounds, including Mechanical Engineering, Automation, Computer Science, Mathematics, Electrical Engineering, Electronic Engineering, Control Engineering, etc. I will support researchers and students in visiting and collaborating with overseas universities.
 
 
