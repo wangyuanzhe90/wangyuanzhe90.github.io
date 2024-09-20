@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Innovating the Future of Robotics"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a Professor in Robotics at the School of Control Science and Engineering, Shandong University, Jinan, China. I obtained the B.Eng. degree from Southeast University, Nanjing, China in 2010, the M.Eng. degree from Beihang University, Beijing, China in 2013, and the Ph.D. degree from Nanyang Technological University, Singapore in 2019. My Ph.D. supervisor is Prof. Danwei Wang (Life Fellow of IEEE, Fellow of Academy of Engineering, Singapore). From 2018 to 2024, I have worked as a Research Associate, a Research Fellow, and a Research Assistant Professor in the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore. I joined Shandong University as a full Professor in 2024.
+
+My research interests include mobile robotics, multi-robot systems, telerobotics, and cybersecurity. I am dedicated to develop innovative robotic theory and technologies, and deploy them in industrial applications. 
 
 A data-driven personal website
 ======
