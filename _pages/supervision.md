@@ -1,7 +1,7 @@
 ---
 title: "Supervision"
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /supervision/
 ---
 
 # Header one
@@ -9,11 +9,11 @@ permalink: /archive-layout-with-content/
 
 ### Tables
 
-| Name             | Time         | Research Topic                                |                                      |
-| --------         | ------------ | --------------------------------------------- | -------------                        |
-| Jiahao Liang     | 2024-present | Description of the item in the list           |               |
-| Chunyang Zhao    | 2023-present | Traversability    | Co-supervsied with Prof. Danwei Wang |
-| [Doe Doe](#)     | 2022   | Description of the item in the list           |               |
+| Name             | Time            | Research Topic                                | Note                                     |
+| --------         | --------------- | --------------------------------------------- | ------------------------------------ |
+| Jiahao Liang     | 2024-present    | Traversability Mapping and Planning           | Co-supervsied with Prof. Danwei Wang |
+| Chunyang Zhao    | 2023-present    | Next-Generation High-Fidelity Teleoperation   | Co-supervsied with Prof. Danwei Wang |
+| Lin Chen         | 2024.01-2024.07 | Multi-Robot Navigation                        | Visiting student              |
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
