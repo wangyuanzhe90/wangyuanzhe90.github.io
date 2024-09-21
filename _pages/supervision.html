@@ -3,14 +3,12 @@ layout: archive
 title: "Supervision"
 permalink: /supervision/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+PhD Students
+======
+* Chunyang Zhao, Next-Generation High-Fidelity Teleoperation, 2023.01 - present, Co-Supervised with Prof. Danwei Wang
