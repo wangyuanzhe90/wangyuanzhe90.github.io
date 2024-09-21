@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 2 at NTU"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2017-spring-teaching-1
 venue: "EEE, NTU"
 date: 2017-01-01
