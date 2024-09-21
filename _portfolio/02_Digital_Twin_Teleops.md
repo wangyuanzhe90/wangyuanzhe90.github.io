@@ -1,6 +1,6 @@
 ---
 title: "Teleops Project: Digital Twin Based Tele-Driving"
-excerpt: "This photo shows the demo of digital twin based tele-driving at the campus of NTU. <br/><img src='/images/Digital_Twin_Teleops.png'>"
+excerpt: "This photo shows the demo of digital twin based tele-driving at the campus of NTU. This work has been accepted by IROS 2024. <br/><img src='/images/Digital_Twin_Teleops.png'>"
 collection: portfolio
 ---
 
