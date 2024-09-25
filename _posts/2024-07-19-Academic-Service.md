@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-I was appointed as an Associate Editor for IEEE Control Systems Letters, starting 1 Jan 2025. 
+I am appointed as an Associate Editor for IEEE Control Systems Letters, starting 1 Jan 2025. 
