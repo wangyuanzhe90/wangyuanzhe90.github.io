@@ -35,5 +35,5 @@ Services
 ======
 * Associate Editor, Journal of Field Robotics, 2024-present
 * Associate Editor, IEEE Transactions on Intelligent Vehicles, 2023-present
-* Associate Editor, IEEE Control Systems Letters, Starting from 1 Jan 2025
-* Associate Editor, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020-2024
+* Associate Editor, IEEE Control Systems Letters, 2025-present
+* Associate Editor, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020-2025
