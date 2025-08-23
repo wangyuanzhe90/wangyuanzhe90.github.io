@@ -1,6 +1,6 @@
 ---
 title: 'Presentation'
-date: 2025-07-16
+date: 2025-07-21
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
