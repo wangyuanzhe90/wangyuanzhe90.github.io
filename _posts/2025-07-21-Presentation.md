@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-I am invited to give a keynote talk at IROS 2025 workshop "Planning, Perception and Navigation for Intelligent Vehicles (PPNIV)".
+I have been invited to give a keynote talk at IROS 2025 workshop "Planning, Perception and Navigation for Intelligent Vehicles (PPNIV)".
