@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-I am appointed as an Associate Editor for IROS 2025. 
+I have been appointed as an Associate Editor for IROS 2025. 
