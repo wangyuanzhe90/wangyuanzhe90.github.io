@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-I am appointed as an Associate Editor for Journal of Field Robotics. 
+I have been appointed as an Associate Editor for Journal of Field Robotics. 
