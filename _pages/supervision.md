@@ -37,4 +37,6 @@ permalink: /supervision/
 
 | Name             | Time            | Research Topic                                | Note                                 | Current Status |
 | --------         | --------------- | --------------------------------------------- | ------------------------------------ | -------------- |
-| Zhengkai Li      | 2025-present    | Manipulation                                  | Main supervisor at SDU               | Undergraduate student   |
+| Zhengkai Li      | 2025-present    | Manipulation                                  | Main supervisor at SDU               | Year 2 student   |
+| Zhengan Lin      | 2024-2025       | Robot Navigation                              | Main supervisor at SDU               | Master student at Beijing Institute of Technology, Master Offer of NUS |
+| Tong Zhang       | 2024-2025       | Robot Navigation                              | Main supervisor at SDU               | Master student at HKU |
