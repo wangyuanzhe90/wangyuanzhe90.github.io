@@ -8,6 +8,7 @@ permalink: /supervision/
 
 | Name             | Time            | Research Topic                                | Note                                        | Current Status |
 | --------         | --------------- | --------------------------------------------- | ------------------------------------        | -------------- |
+| Xingkui Hong     | 2026-present    | Multirobot Systems                            | Main supervisor at SDU & SLAI               | Phd student    |
 | Tengfan Fu       | 2026-present    | Vision-Language Navigation                    | Main supervisor at SDU                      | Phd student    |
 | Jincheng Hu      | 2025-present    | Navigation in Complex Terrain                 | Main supervisor at SDU                      | Phd student    |
 | Jiayu Liang      | 2024-present    | Vision-Language Navigation                    | Main supervisor at SDU                      | Phd student    |
@@ -41,8 +42,8 @@ permalink: /supervision/
 | Name             | Time            | Research Topic                                | Note                                 | Current Status |
 | --------         | --------------- | --------------------------------------------- | ------------------------------------ | -------------- |
 | Zhengkai Li      | 2025-present    | Manipulation                                  | Main supervisor at SDU               | Year 2 student   |
-| Baorui Fu        | 2025-2026       | VLN                                           | Main supervisor at SDU               | PhD student at Shandong University|
-| Xiaoxiao Song    | 2025-2026       | Manipulation                                  | Main supervisor at SDU               | PhD student at Shandong University|
+| Baorui Fu        | 2025-2026       | VLN                                           | Main supervisor at SDU               | Master student at Shandong University|
+| Xiaoxiao Song    | 2025-2026       | Manipulation                                  | Main supervisor at SDU               | Master student at Shandong University|
 | Wei Zhang        | 2025-2026       | VLN                                           | Main supervisor at SDU               | PhD student at The University of Hong Kong |
 | Rui Shi          | 2025-2026       | Teleoperation                                 | Main supervisor at SDU               | Master student at Nanyang Technological University, Singapore |
 | Junyou Chen      | 2025-2026       | UAV Exploration                               | Main supervisor at SDU               | Master student at Sun Yat-sen University |
